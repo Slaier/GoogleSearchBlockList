@@ -5,6 +5,7 @@
 *://*/so/*
 *://*/so.php
 *://*/so.php?s=*
+*://kknews.cc/*
 *://qastack.cn/*
 *://stackoom.com/*
 *://www.it-swarm.dev/*
