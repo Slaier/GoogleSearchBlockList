@@ -1,0 +1,10 @@
+*://*/cha.php?s=*
+*://*/key/*
+*://*/list.php?s=*
+*://*/?s=*
+*://*/so/*
+*://*/so.php
+*://*/so.php?s=*
+*://qastack.cn/*
+*://stackoom.com/*
+*://www.it-swarm.dev/*
