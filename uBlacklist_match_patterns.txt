@@ -1,5 +1,4 @@
 *://*/cha.php?s=*
-*://cloud.tencent.com/developer/article/*
 *://*/key/*
 *://*/list.php?s=*
 *://*/?s=*

@@ -1,3 +1,4 @@
+cloud.tencent.com
 kknews.cc
 qastack.cn
 stackoom.com

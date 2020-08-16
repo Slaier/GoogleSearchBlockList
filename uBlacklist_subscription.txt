@@ -1,11 +1,11 @@
 *://*/cha.php?s=*
-*://cloud.tencent.com/developer/article/*
 *://*/key/*
 *://*/list.php?s=*
 *://*/?s=*
 *://*/so/*
 *://*/so.php
 *://*/so.php?s=*
+*://cloud.tencent.com/*
 *://kknews.cc/*
 *://qastack.cn/*
 *://stackoom.com/*
