@@ -10,3 +10,4 @@
 *://qastack.cn/*
 *://stackoom.com/*
 *://www.it-swarm.dev/*
+*://ywnz.com/*
