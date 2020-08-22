@@ -2,5 +2,8 @@ cloud.tencent.com
 kknews.cc
 qastack.cn
 stackoom.com
+tech.sina.com.cn
+www.cnbeta.com
+www.ithome.com
 www.it-swarm.dev
 ywnz.com
