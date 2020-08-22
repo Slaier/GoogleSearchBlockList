@@ -2,11 +2,13 @@
 bugjia.net
 card.weibo.com
 cloud.tencent.com
+developer.aliyun.com
 kknews.cc
 m.rmxz.com
 news.itbound.com
 news.west.cn
 ouims.com
+phpor.net
 qastack.cn
 *.shangdixinxi.com
 stackoom.com
