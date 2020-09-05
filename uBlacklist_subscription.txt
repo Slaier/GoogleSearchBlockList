@@ -8,11 +8,13 @@
 *://*.163.com/*
 *://*.baidu.com/*
 *://*.csdn.net/*
+*://*.oschina.net/*
 *://*.pc841.com/*
 *://*.shangdixinxi.com/*
 *://*.sina.com.cn/*
 *://*.weibo.com/*
 *://67ccc.com.www.22.cn/*
+*://answer-id.com/*
 *://api.9idudu.com/*
 *://asiproject.com/*
 *://ask.zol.com.cn/*
@@ -70,7 +72,6 @@
 *://www.msn.cn/zh-cn/news/*
 *://www.nfrx.net/*
 *://www.onlinedown.net/*
-*://www.oschina.net/*
 *://www.pc6.com/*
 *://www.pcpc.me/*
 *://www.pianshen.com/*
