@@ -39,6 +39,7 @@
 *://phpor.net/*
 *://sdifla.com/*
 *://share.wukongwenda.cn/*
+*://stackoverrun.com/*
 *://tech.sina.cn/*
 *://windows10.pro/*
 *://www.21ic.com/*
@@ -50,6 +51,7 @@
 *://www.bjitwx.com/*
 *://www.cnbeta.com/*
 *://www.cnhqi.com/*
+*://www.codeleading.com/*
 *://www.codenong.com/*
 *://www.coder.work/*
 *://www.ddooo.com/*
@@ -59,7 +61,9 @@
 *://www.iludou.com/*
 *://www.it-swarm.dev/*
 *://www.itbear.com.cn/*
+*://www.itdaan.com/*
 *://www.jb51.net/*
+*://www.jeepxie.net/*
 *://www.kafan.cn/*
 *://www.liwei8090.com/*
 *://www.microwin10.com/*
@@ -74,8 +78,10 @@
 *://www.shanglingzhuangshi.com/*
 *://www.shangmayuan.com/*
 *://www.shuland.com/*
+*://www.shuzhiduo.com/*
 *://www.ssfiction.com/*
 *://www.thecover.cn/*
+*://www.thinbug.com/*
 *://www.veryhuo.com/*
 *://www.voidcn.com/*
 *://www.wcwntv.com/*
