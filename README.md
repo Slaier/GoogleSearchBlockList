@@ -7,4 +7,3 @@
 
 - [Slaier/GoogleSearchBlockList](https://raw.githubusercontent.com/Slaier/GoogleSearchBlockList/master/uBlacklist_subscription.txt)
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/uBlacklist_subscription.txt)
-- [gyli/Blocklist](https://raw.githubusercontent.com/gyli/Blocklist/master/BLOCKLIST)

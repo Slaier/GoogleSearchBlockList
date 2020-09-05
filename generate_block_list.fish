@@ -7,5 +7,5 @@ mv temp block_domain_list.txt
 # generate ublacklist
 cat uBlacklist_match_patterns.txt | sort | uniq >> temp
 cp temp uBlacklist_match_patterns.txt
-cat block_domain_list.txt | parallel -k echo  '\*://'{}'/\*' >> temp
+awk '{printf "*://%s/*\n",$0}' block_domain_list.txt Blocklist/lunzi Blocklist/BLOCKLIST >> temp
 mv temp uBlacklist_subscription.txt
