@@ -1,3 +1,6 @@
 [submodule "Blocklist"]
 	path = Blocklist
 	url = https://github.com/gyli/Blocklist.git
+[submodule "Google-Chinese-Results-Blocklist"]
+	path = Google-Chinese-Results-Blocklist
+	url = https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist.git

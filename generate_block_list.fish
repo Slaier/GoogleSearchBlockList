@@ -1,11 +1,24 @@
 #!/usr/bin/env fish
 
-# sort ban list
-cat block_domain_list.txt | sort -s | uniq > temp
-mv temp block_domain_list.txt
+function sort_list
+    set temp_file (mktemp)
+    echo 'sort '$argv' ...'
+    cat $argv | sort -s | uniq > $temp_file
+    mv $temp_file $argv
+    echo 'sort '$argv' done'
+end
 
 # generate ublacklist
-cat uBlacklist_match_patterns.txt | sort -s | uniq >> temp
-cp temp uBlacklist_match_patterns.txt
-awk '{printf "*://%s/*\n",$0}' block_domain_list.txt Blocklist/lunzi Blocklist/BLOCKLIST >> temp
-mv temp uBlacklist_subscription.txt
+cat match_patterns.txt Google-Chinese-Results-Blocklist/uBlacklist_match_patterns.txt > uBlacklist_match_patterns.txt
+sort_list uBlacklist_match_patterns.txt
+
+awk '{printf "*://%s/*\n",$0}' perma_ban_list.txt block_list.txt Blocklist/lunzi Blocklist/BLOCKLIST > uBlacklist_subscription.txt
+cat Google-Chinese-Results-Blocklist/uBlacklist_subscription.txt >> uBlacklist_subscription.txt
+sort_list uBlacklist_subscription.txt
+
+# generate GHHbD
+cat perma_ban_list.txt Google-Chinese-Results-Blocklist/GHHbD_perma_ban_list.txt Blocklist/lunzi Blocklist/BLOCKLIST > GHHbD_perma_ban_list.txt
+sort_list GHHbD_perma_ban_list.txt
+
+cat block_list.txt > GHHbD_block_list.txt
+sort_list GHHbD_block_list.txt
