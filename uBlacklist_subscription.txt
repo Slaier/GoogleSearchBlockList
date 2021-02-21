@@ -16257,6 +16257,7 @@
 *://blmsb10.com/*
 *://blns.net/*
 *://blockdog.net/*
+*://blog.desdelinux.net/*
 *://blogdll.com/*
 *://*.blog.jiecaoba.cn/*
 *://blogsee.cn/*
@@ -19914,6 +19915,7 @@
 *://cnpharmaceutical.com/*
 *://cnpv-power.com/*
 *://cnpxun.com/*
+*://cnpython.com/*
 *://cnq63.com/*
 *://cnqelu.com/*
 *://cnqgw.cn/*
@@ -20054,6 +20056,8 @@
 *://codeexplain.com/*
 *://codeflash.net/*
 *://codegur.com/*
+*://codeleading.com/*
+*://codenong.com/*
 *://codeotel.com/*
 *://coderexception.com/*
 *://coder.work/*
@@ -20694,6 +20698,7 @@
 *://csctop.com/*
 *://csdadi.net/*
 *://csdn123.com/*
+*://csdn.net/*
 *://csdsw.com/*
 *://cselite.cn/*
 *://csfair.cn/*
@@ -27176,6 +27181,7 @@
 *://gedy.pw/*
 *://geekchina.com.cn/*
 *://geeknation.cc/*
+*://geekschool.org/*
 *://geelytaxi.com/*
 *://geerxin.cn/*
 *://geexwv.info/*
@@ -34316,6 +34322,7 @@
 *://jatqd.com/*
 *://jau.com/*
 *://javacourse.cn/*
+*://javaer101.com/*
 *://javaetime.com/*
 *://javalearns.com/*
 *://javarmi.com/*
@@ -34941,6 +34948,7 @@
 *://jianqiaoyiyuan.com/*
 *://jianruishiyouu.com/*
 *://jianshanhu.net/*
+*://jianshu.com/*
 *://jianso.com/*
 *://jiansui.top/*
 *://jiantao168.com/*
@@ -51739,6 +51747,7 @@
 *://seamstobebye.com/*
 *://search686.com/*
 *://searchba.com/*
+*://search.bilibili.com/*
 *://*.search.discuz.qq.com/*
 *://searcheasy.net/*
 *://searching.cc/*
@@ -53612,6 +53621,7 @@
 *://sohu369.com/*
 *://sohu94.com/*
 *://sohubb.com/*
+*://sohu.com/*
 *://sohuirm.com/*
 *://sohuuwf.com/*
 *://sohuxpc.com/*
@@ -60564,6 +60574,7 @@
 *://wilxe2.com/*
 *://wimaxgsm.com/*
 *://wimkp.com/*
+*://win10xiazai.com/*
 *://win1230.com/*
 *://win2007.com/*
 *://win21.net/*
